@@ -13,4 +13,4 @@ sequelize
   .catch(function (err) {
     console.log('Unable to connect to the database:', err);
   });
-  
+  // master original
