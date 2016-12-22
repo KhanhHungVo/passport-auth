@@ -13,5 +13,3 @@ sequelize
   .catch(function (err) {
     console.log('Unable to connect to the database:', err);
   });
-// test merge branch git
-  
